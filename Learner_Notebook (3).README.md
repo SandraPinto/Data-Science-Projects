@@ -1,5 +1,4 @@
 
-<img src="https://rhyme.com/assets/img/logo-dark.png" align=center></img>
 <h2 align="center">Predict Employee Churn with Decision Trees and Random Forests</h2>
 
  
